@@ -1,0 +1,1 @@
+This is a simple recipe page project to brush up on HTML skills.
